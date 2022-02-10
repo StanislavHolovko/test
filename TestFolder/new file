@@ -1,3 +1,5 @@
-function printId(id: number|string){
-    console.log(`Id: ${id}`);
-}
+let cd : number | string;
+cd = "1345dgg5";
+console.log(cd); // 1345dgg5
+cd = 234;
+console.log(cd);
