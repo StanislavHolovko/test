@@ -1,1 +1,3 @@
-Simple Text 
+function printId(id: number|string){
+    console.log(`Id: ${id}`);
+}
